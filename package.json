@@ -1,10 +1,19 @@
 {
   "name": "trim-obj",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Recursively trim object values",
-  "main": "index.js",
+  "main": "dist/trim-obj.js",
+  "types": "dist/trim-obj.d.ts",
   "license": "MIT",
-  "homepage": "https://github.com/richardscarrott/trim-obj",
+  "homepage": "https://github.com/richardscarrott/trim-obj#readme",
+  "repository": "https://github.com/richardscarrott/trim-obj",
+  "keywords": [
+    "trim",
+    "object",
+    "trim-object",
+    "deep",
+    "recursive"
+  ],
   "scripts": {
     "test": "jest",
     "build": "tsc",
