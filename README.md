@@ -1,5 +1,9 @@
 # Trim Obj
 
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/richardscarrott/trim-obj.svg)](https://www.npmjs.com/package/trim-obj)
+[![GitHub license](https://github.com/richardscarrott/trim-obj/actions/workflows/node.js.yml/badge.svg)](https://github.com/richardscarrott/trim-obj/actions/workflows/node.js.yml)
+[![GitHub license](https://img.shields.io/github/license/richardscarrott/trim-obj.svg)](https://github.com/richardscarrott/trim-obj/blob/master/LICENSE)
+
 Recursively trim object values.
 
 ## Install
