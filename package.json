@@ -1,6 +1,6 @@
 {
   "name": "trim-obj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Recursively trim object values",
   "main": "index.js",
   "license": "MIT",
